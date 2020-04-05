@@ -1,11 +1,11 @@
 # Site settings
-author: Vladimir J
-title: 
+author: Vladimir Jimenez
+title: Vlad's Blog
 header-img: img/home-bg.png
 email: vladdaimpaler@protonmail.com
-copyright_name: Vladimir J
+copyright_name: Vladimir Jimenez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey into Vlad's Mind
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  VladDaImpaler18
