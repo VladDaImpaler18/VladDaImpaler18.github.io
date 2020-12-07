@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Every Step Matters"
-date:       2020-11-30 09:31:04 +0000
+date:       2020-11-30 04:31:05 -0500
 permalink:  every_step_matters
 ---
 
 
-This module's project is a untility program, that is used for data entry. The program marries my knowledge of JavaScript as our frontend, and Ruby on Rails as our API backend. My data entry program is for my future project.
+This module's project is a utility program, that is used for data entry. The program marries my knowledge of JavaScript as the frontend, and Ruby on Rails as the API backend. My data entry program is for my future project.
 The logic goes as follows, A category has many questions. The Question model consists of a question, an answer, and an array of at least 3 incorrect answers (dummy answers), a diagram caption, and what Category the question belongs to.
 I wanted to allow a flexible amount of dummy answers so that the user can increase the variety in the wrong answers pool, particularly combined with class function Question.pickDummies(x). 
 ```
