@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Stop, Think, React! and R-R-R-REDUX"
-date:       2021-01-27 22:15:06 +0000
+title:      "Stop, Think, React and R-R-R-REDUX"
+date:       2021-01-27 17:15:06 -0500
 permalink:  stop_think_react_and_r-r-r-redux
 ---
 
