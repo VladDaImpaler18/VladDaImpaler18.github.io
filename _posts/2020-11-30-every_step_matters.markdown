@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Every Step Matters"
+title:      "Every Step Matters!"
 date:       2020-11-30 04:31:05 -0500
 permalink:  every_step_matters
 ---
